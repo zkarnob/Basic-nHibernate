@@ -1,0 +1,15 @@
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\bin\Debug\net8.0\StudentManagementSystem.BusinessLogic.deps.json
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\bin\Debug\net8.0\StudentManagementSystem.BusinessLogic.dll
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\bin\Debug\net8.0\StudentManagementSystem.BusinessLogic.pdb
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\bin\Debug\net8.0\StudentManagementSystem.DataAccess.dll
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\bin\Debug\net8.0\StudentManagementSystem.DataAccess.pdb
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\StudentManagementSystem.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\StudentManagementSystem.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\StudentManagementSystem.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\StudentManagementSystem.BusinessLogic.AssemblyInfo.cs
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\StudentManagementSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\StudentM.B73EC4EC.Up2Date
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\StudentManagementSystem.BusinessLogic.dll
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\refint\StudentManagementSystem.BusinessLogic.dll
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\StudentManagementSystem.BusinessLogic.pdb
+C:\Users\zkarn\source\repos\StudentManagementSystem.BusinessLogic\obj\Debug\net8.0\ref\StudentManagementSystem.BusinessLogic.dll
